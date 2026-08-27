@@ -4,7 +4,7 @@ A responsive personal portfolio website built using **HTML5, CSS3, and JavaScrip
 
 ## 🚀 Live Demo
 
-[View My Portfolio](https://sathyasaravana2004-boop.github.io/portfolio/)
+[View My Portfolio](https://sathyasaravana2004-boop.github.io/Sathya-Portfolio)
 
 ## 🛠️ Technologies Used
 
